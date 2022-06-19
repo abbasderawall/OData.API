@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OData.App", "C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.App\OData.App.csproj", "{7E3653B7-1A1A-45F5-90F5-B28DBBB41F76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OData.Business", "OData.Business\OData.Business.csproj", "{C898148B-B4A2-4A7D-9E7B-36E924065A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3653B7-1A1A-45F5-90F5-B28DBBB41F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3653B7-1A1A-45F5-90F5-B28DBBB41F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3653B7-1A1A-45F5-90F5-B28DBBB41F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3653B7-1A1A-45F5-90F5-B28DBBB41F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C898148B-B4A2-4A7D-9E7B-36E924065A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C898148B-B4A2-4A7D-9E7B-36E924065A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C898148B-B4A2-4A7D-9E7B-36E924065A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C898148B-B4A2-4A7D-9E7B-36E924065A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055B1EEC-95E1-4CB8-BC55-447354A8F4AD}
+	EndGlobalSection
+EndGlobal

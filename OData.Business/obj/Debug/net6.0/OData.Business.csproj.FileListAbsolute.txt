@@ -1,0 +1,36 @@
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\bin\Debug\net6.0\OData.Business.deps.json
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\bin\Debug\net6.0\OData.Business.dll
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\bin\Debug\net6.0\OData.Business.pdb
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\OData.Business.csproj.AssemblyReference.cache
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\OData.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\OData.Business.AssemblyInfoInputs.cache
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\OData.Business.AssemblyInfo.cs
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\OData.Business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\OData.Business.dll
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\refint\OData.Business.dll
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\OData.Business.pdb
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\Jibble.Business\obj\Debug\net6.0\ref\OData.Business.dll
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\bin\Debug\net6.0\OData.Business.deps.json
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\bin\Debug\net6.0\OData.Business.dll
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\bin\Debug\net6.0\OData.Business.pdb
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\OData.Business.csproj.AssemblyReference.cache
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\OData.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\OData.Business.AssemblyInfoInputs.cache
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\OData.Business.AssemblyInfo.cs
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\OData.Business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\OData.Business.dll
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\refint\OData.Business.dll
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\OData.Business.pdb
+C:\Users\Muhammad Abbas\Downloads\JibbleInterviewTest-master\JibbleInterviewTest-master\OData.Business\obj\Debug\net6.0\ref\OData.Business.dll
+D:\Personal\Projects\OData.API\OData.Business\bin\Debug\net6.0\OData.Business.deps.json
+D:\Personal\Projects\OData.API\OData.Business\bin\Debug\net6.0\OData.Business.dll
+D:\Personal\Projects\OData.API\OData.Business\bin\Debug\net6.0\OData.Business.pdb
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\OData.Business.csproj.AssemblyReference.cache
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\OData.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\OData.Business.AssemblyInfoInputs.cache
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\OData.Business.AssemblyInfo.cs
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\OData.Business.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\OData.Business.dll
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\refint\OData.Business.dll
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\OData.Business.pdb
+D:\Personal\Projects\OData.API\OData.Business\obj\Debug\net6.0\ref\OData.Business.dll
